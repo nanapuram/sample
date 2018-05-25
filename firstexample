@@ -12,5 +12,6 @@
 <tr>Name</tr>
 <tr>Empid</tr>
 <tr>address</tr>
+<tr>phone</tr>
 </body>
 </html>
