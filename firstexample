@@ -1,7 +1,21 @@
 <html>
 <head>welcome to first program</head>
 <body>
+<<<<<<< HEAD
 <div>One</one>
-<div2>Two<div>
+=======
+<div>One<div>
+<ls>Hello</ls>
+<ls>Krupa</ls>
+<div1>1</div1>
+<div2>2</div2>
+<div3>3</div3>
+<div4>4</div4>
+<table>Nandu</table>
+<tr>Name</tr>
+<tr>Empid</tr>
+<tr>address</tr>
+<tr>phone</tr>
+>>>>>>> develop
 </body>
 </html>
