@@ -13,5 +13,6 @@
 <tr>Empid</tr>
 <tr>address</tr>
 <tr>phone</tr>
+<td>mobile</td>
 </body>
 </html>
